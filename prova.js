@@ -11,7 +11,7 @@ define(['pipAPI', 'https://cdn.jsdelivr.net/gh/baranan/minno-tasks@0.*/IAT/qualt
 				height : 4 //Used to position the "Or" in the combined block.
 			}, 
 			stimulusMedia : [ //Stimuli content as PIP's media objects
-            {word: 'Career'},
+            {word: 'Carriera'},
 				{word: 'Azienda'},
 				{word: 'Stipendio'},
 				{word: 'Ufficio'},
@@ -30,7 +30,7 @@ define(['pipAPI', 'https://cdn.jsdelivr.net/gh/baranan/minno-tasks@0.*/IAT/qualt
 				height : 4 //Used to position the "Or" in the combined block.
 			}, 
 			stimulusMedia : [ //Stimuli content as PIP's media objects
-           	{word: 'Wedding'},
+           	{word: 'Nozze'},
 				{word: 'Matrimonio'},
 				{word: 'Genitori'},
 				{word: 'Parenti'},
@@ -50,7 +50,7 @@ define(['pipAPI', 'https://cdn.jsdelivr.net/gh/baranan/minno-tasks@0.*/IAT/qualt
 				height : 4 //Used to position the "Or" in the combined block.
 			},
 			stimulusMedia : [ //Stimuli content as PIP's media objects
-            	{word: 'Ben'},
+            	{word: 'Marco'},
 				{word: 'Paolo'},
 				{word: 'Daniele'},
 				{word: 'Giovanni'},
