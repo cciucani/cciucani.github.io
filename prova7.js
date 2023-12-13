@@ -95,7 +95,7 @@ define(['pipAPI', 'https://baranan.github.io/minno-tasks/quiat9.js'], function(A
 				'<br/>Metti un dito della mano destra sul tasto <b>I</b> per le voci che appartengono alla categoria <font color="#336600">rightCategory</font>.<br/>' +
 				'Le voci compariranno una alla volta.<br/><br/>' +
 				'Se sbagli apparir una <font color="#ff0000"><b>X</b></font> rossa. ' +
-				'Premi l'altro tasto per continuare.<br/>' +
+				'Premi l altro tasto per continuare.<br/>' +
 				'<u>Vai pi veloce che puoi </u> cercando di non sbagliare.<br/><br/></p>'+
 				'<p align="center">Premi la <b>barra spaziatrice</b> per iniziare.</font></p></div>',
 				
