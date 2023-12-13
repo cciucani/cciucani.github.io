@@ -80,7 +80,7 @@ define(['pipAPI', 'https://baranan.github.io/minno-tasks/quiat9.js'], function(A
 				//Stimulus css
 				stimulusCss : {color:'#0000FF','font-size':'2.3em'}
 			},
-					leftKeyText : 'Trykk "E" for', 
+			leftKeyText : 'Trykk "E" for', 
 			rightKeyText : 'Trykk "I" for', 
 			keysCss : {'font-size':'0.8em', 'font-family':'courier', color:'#000000'},
 			//Text and style for the separator between the top and bottom category labels.
