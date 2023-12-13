@@ -96,7 +96,7 @@ define(['pipAPI', 'https://baranan.github.io/minno-tasks/quiat9.js'], function(A
 				'Le voci compariranno una alla volta.<br/><br/>' +
 				'Se sbagli apparir una <font color="#ff0000"><b>X</b></font> rossa. ' +
 				'Premi l'altro tasto per continuare.<br/>' +
-				'<u>Vai più veloce che puoi </u> cercando di non sbagliare.<br/><br/></p>'+
+				'<u>Vai pi veloce che puoi </u> cercando di non sbagliare.<br/><br/></p>'+
 				'<p align="center">Premi la <b>barra spaziatrice</b> per iniziare.</font></p></div>',
 				
 		instAttributePractice: '<div><p align="center" style="font-size:20px; font-family:arial">' +
