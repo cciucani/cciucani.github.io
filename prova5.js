@@ -85,7 +85,7 @@ define(['pipAPI', 'https://baranan.github.io/minno-tasks/quiat9.js'], function(A
 			finalText : 'Premi la barra spaziatrice per continuare alla prossima fase',
 			
 		instCategoriesPractice: '<div><p align="center" style="font-size:20px; font-family:arial">' +
-				'<font color="#000000"><u>Del blockNum av nBlocks </u><br/><br/></p>' +
+				'<font color="#000000"><u> Fase blockNum di nBlocks </u><br/><br/></p>' +
 				'<p style="font-size:20px; text-align:left; vertical-align:bottom; margin-left:10px; font-family:arial">' +
 				'Metti un dito della mano sinistra sul tasto <b>E</b> per le voci che appartengono alla categoria <font color="#336600">leftCategory</font>. ' +
 				'<br/>Metti un dito della mano destra sul tasto <b>I</b> per le voci che appartengono alla categoria <font color="#336600">rightCategory</font>.<br/>' +
