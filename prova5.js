@@ -80,9 +80,7 @@ define(['pipAPI', 'https://baranan.github.io/minno-tasks/quiat9.js'], function(A
 				//Stimulus css
 				stimulusCss : {color:'#0000FF','font-size':'2.3em'}
 			},
-
-				
-    leftKeyText : 'Premi "E" per', 
+			leftKeyText : 'Premi "E" per', 
 			rightKeyText : 'Premi "I" per', 
 			keysCss : {'font-size':'0.8em', 'font-family':'courier', color:'#000000'},
 			//Text and style for the separator between the top and bottom category labels.
@@ -100,7 +98,6 @@ define(['pipAPI', 'https://baranan.github.io/minno-tasks/quiat9.js'], function(A
 				'Premi l'altro tasto per continuare.<br/>' +
 				'<u>Vai più veloce che puoi</u> restando preciso.<br/><br/></p>'+
 				'<p align="center">Premi la <b>barra spaziatrice</b> quando sei pronto per continuare.</font></p></div>',
-
 				
 		instAttributePractice: '<div><p align="center" style="font-size:20px; font-family:arial">' +
 				'<font color="#000000"><u>Del blockNum av nBlocks </u><br/><br/></p>' +
