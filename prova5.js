@@ -10,13 +10,13 @@ define(['pipAPI', 'https://baranan.github.io/minno-tasks/quiat9.js'], function(A
 				height : 4 //Used to position the "Or" in the combined block.
 			}, 
 			stimulusMedia : [ //Stimuli content as PIP's media objects
-            {word: 'Carriera'},
-				{word: 'Azienda'},
-				{word: 'Stipendio'},
-				{word: 'Ufficio'},
-				{word: 'Professionista'},
-				{word: 'Management'},
-				{word: 'Business'}
+            		{word: 'Carriera'},
+			{word: 'Azienda'},
+			{word: 'Stipendio'},
+			{word: 'Ufficio'},
+			{word: 'Professionista'},
+			{word: 'Management'},
+			{word: 'Business'}
 			], 
 			//Stimulus css (style)
 			stimulusCss : {color:'#31940F','font-size':'1.8em'}
@@ -29,21 +29,17 @@ define(['pipAPI', 'https://baranan.github.io/minno-tasks/quiat9.js'], function(A
 				height : 4 //Used to position the "Or" in the combined block.
 			}, 
 			stimulusMedia : [ //Stimuli content as PIP's media objects 
-           	{word: 'Nozze'},
-				{word: 'Matrimonio'},
-				{word: 'Genitori'},
-				{word: 'Parenti'},
-				{word: 'Famiglia'},
-				{word: 'Casa'}, 
-				{word: 'Bambini'} 
+           		{word: 'Nozze'},
+			{word: 'Matrimonio'},
+			{word: 'Genitori'},
+			{word: 'Parenti'},
+			{word: 'Famiglia'},
+			{word: 'Casa'}, 
+			{word: 'Bambini'} 
       ], 
 			//Stimulus css
 			stimulusCss : {color:'#31940F','font-size':'1.8em'}
 		},	
-
-		base_url : {//Where are your images at?
-			image : 'https://baranan.github.io/minno-tasks/images/'
-		},
 		attribute1 :
 			{
 				name : 'Maschio',
@@ -53,11 +49,11 @@ define(['pipAPI', 'https://baranan.github.io/minno-tasks/quiat9.js'], function(A
 					height : 4 //Used to position the "Or" in the combined block.
 				},
 				stimulusMedia : [ //Stimuli content as PIP's media objects
-{word: 'Marco'},
-				{word: 'Paolo'},
-				{word: 'Daniele'},
-				{word: 'Giovanni'},
-				{word: 'Giuseppe'}
+					{word: 'Marco'},
+					{word: 'Paolo'},
+					{word: 'Daniele'},
+					{word: 'Giovanni'},
+					{word: 'Giuseppe'}
 			],
 				//Stimulus css
 				stimulusCss : {color:'#0000FF','font-size':'2.3em'}
@@ -71,11 +67,11 @@ define(['pipAPI', 'https://baranan.github.io/minno-tasks/quiat9.js'], function(A
 					height : 4 //Used to position the "Or" in the combined block.
 				},
 				stimulusMedia : [ //Stimuli content as PIP's media objects
-          {word: 'Rebecca'},
-				{word: 'Michela'},
-				{word: 'Francesca'},
-				{word: 'Giulia'},
-				{word: 'Anna'}
+          				{word: 'Rebecca'},
+					{word: 'Michela'},
+					{word: 'Francesca'},
+					{word: 'Giulia'},
+					{word: 'Anna'}
 			],
 				//Stimulus css
 				stimulusCss : {color:'#0000FF','font-size':'2.3em'}
@@ -105,7 +101,7 @@ define(['pipAPI', 'https://baranan.github.io/minno-tasks/quiat9.js'], function(A
 				'Metti un dito della mano sinistra sul tasto <b>E</b> per le voci che appartengono alla categoria <font color="#0000ff">leftAttribute.</font>' +
 				'<br/>Metti un dito della mano destra sul tasto <b>I</b> per le voci che appartengono alla categoria <font color="#0000ff">rightAttribute</font>.<br/><br/>' +
 				'Se sbagli apparirà una <font color="#ff0000"><b>X</b></font> rossa. ' +
-				'Trykk på den andre tasten for å fortsette..<br/>' +
+				'Premi l'altro tasto per continuare.<br/>' +
 				'<u>Vai più veloce che puoi</u> restando preciso..<br/><br/></p>'+
 				'<p align="center">Premi la <b>barra spaziatrice</b> quando sei pronto per continuare.</font></p></div>',		
 
