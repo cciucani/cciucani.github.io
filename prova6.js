@@ -84,7 +84,7 @@ define(['pipAPI', 'https://baranan.github.io/minno-tasks/quiat9.js'], function(A
 			rightKeyText : 'Premi "I" per', 
 			keysCss : {'font-size':'0.8em', 'font-family':'courier', color:'#000000'},
 			//Text and style for the separator between the top and bottom category labels.
-			orText : 'eller', 
+			orText : 'o', 
 			orCss : {'font-size':'1.8em', color:'#000000'},
 			finalText : 'Trykk på mellomromstasten for å forstette til neste oppgave',
 			
