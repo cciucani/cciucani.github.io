@@ -106,7 +106,7 @@ define(['pipAPI', 'https://baranan.github.io/minno-tasks/quiat9.js'], function(A
 				'<p align="center">Premi la <b>barra spaziatrice</b> quando sei pronto per continuare.</font></p></div>',		
 
 		instFirstCombined : '<div><p align="center" style="font-size:20px; font-family:arial">' +
-				'<font color="#000000"><u>Del blockNum av nBlocks </u><br/><br/></p>' +
+				'<font color="#000000"><u>Fase blockNum di nBlocks </u><br/><br/></p>' +
 				'<p style="font-size:20px; text-align:left; vertical-align:bottom; margin-left:10px; font-family:arial">' +
 				'Usa il tasto <b>E</b> per <font color="#336600">leftCategory</font> e per <font color="#0000ff">leftAttribute</font>.<br/>' +
 				'Usa il tasto <b>I</b> per <font color="#336600">rightCategory</font> e per <font color="#0000ff">rightAttribute</font>.<br/>' +
@@ -116,7 +116,7 @@ define(['pipAPI', 'https://baranan.github.io/minno-tasks/quiat9.js'], function(A
 				'<u>Vai più veloce che puoi </u> restando preciso.<br/><br/></p>' +
 				'<p align="center">Premi la <b>barra spaziatrice</b> quando sei pronto per continuare.</font></p></div>',    
 		instSecondCombined : '<div><p align="center" style="font-size:20px; font-family:arial">' +
-				'<font color="#000000"><u>Del blockNum av nBlocks </u><br/><br/></p>' +
+				'<font color="#000000"><u>Fase blockNum di nBlocks </u><br/><br/></p>' +
 				'<p style="font-size:20px; text-align:left; vertical-align:bottom; margin-left:10px; font-family:arial">' +
 				'Questa fase è uguale alla precedente.<br/>' +
 				'Usa il tasto <b>E</b> per <font color="#336600">leftCategory</font> e per <font color="#0000ff">leftAttribute</font>.<br/>' +
