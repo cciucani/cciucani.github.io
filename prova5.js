@@ -96,7 +96,7 @@ define(['pipAPI', 'https://cdn.jsdelivr.net/gh/baranan/minno-tasks@0.*/IAT/qualt
 				'<p align="center">Premi la <b>barra spaziatrice</b> quando sei pronto per continuare.</font></p></div>',
 				
 		instAttributePractice: '<div><p align="center" style="font-size:20px; font-family:arial">' +
-				'<font color="#000000"><u>Del blockNum av nBlocks </u><br/><br/></p>' +
+				'<font color="#000000"><u>Fase blockNum di nBlocks </u><br/><br/></p>' +
 				'<p style="font-size:20px; text-align:left; vertical-align:bottom; margin-left:10px; font-family:arial">' +
 				'Metti un dito della mano sinistra sul tasto <b>E</b> per le voci che appartengono alla categoria <font color="#0000ff">leftAttribute.</font>' +
 				'<br/>Metti un dito della mano destra sul tasto <b>I</b> per le voci che appartengono alla categoria <font color="#0000ff">rightAttribute</font>.<br/><br/>' +
@@ -125,7 +125,7 @@ define(['pipAPI', 'https://cdn.jsdelivr.net/gh/baranan/minno-tasks@0.*/IAT/qualt
 				'<u>Vai più veloce che puoi</u> restando preciso.<br/><br/></p>' +
 				'<p align="center">Premi la <b>barra spaziatrice</b> quando sei pronto per continuare.</font></p></div>',
 		instSwitchCategories : '<div><p align="center" style="font-size:20px; font-family:arial">' +
-				'<font color="#000000"><u>Del blockNum av nBlocks </u><br/><br/></p>' +
+				'<font color="#000000"><u>Fase blockNum di nBlocks </u><br/><br/></p>' +
 				'<p style="font-size:20px; text-align:left; vertical-align:bottom; margin-left:10px; font-family:arial">' +
 				'<b>Attenzione, le categorie hanno cambiato posizione!</b><br/>' +
 				'Metti un dito della mano sinistra sul tasto <b>E</b> per <font color="#336600">leftCategory</font>.<br/>' +
